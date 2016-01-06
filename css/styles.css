@@ -1,0 +1,30 @@
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.container h1 {
+  text-align: center;
+}
+
+.column {
+  width: 31%;
+  float: left;
+  padding-left: 1%;
+  padding-right: 1%;
+  border: 1px solid #e0e0eb;
+}
+
+.column h2 {
+  text-align: center;
+}
+
+img {
+  max-width: 90%;
+}
+
+.footer {
+  clear: both;
+  padding-left: 5px;
+  padding-right: 5px;
+}
